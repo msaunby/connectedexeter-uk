@@ -1,0 +1,20 @@
+# To use Gravatar format is https://en.gravatar.com/avatar/HASH
+# Where HASH is md5 hash of email address, e.g. mike@saunby.net
+# Use http://www.miraclesalad.com/webtools/md5.php
+
+
+Michael Saunby:
+    name: Michael Saunby
+    email: "mike@saunby.net"
+    photo: "https://en.gravatar.com/avatar/f8d31e3083b1352956a11b0465b7be31"
+
+
+Rupert Johnstone:
+    name: Rupert Johnstone
+    photo: "https://plus.google.com/photos/112508746275027677063/albums/profile/6104966295048579682"
+
+Adam Lusby:
+    name: Adam Lusby
+    email: "adam@ceoptimal.com"
+    photo: "https://plus.google.com/photos/115703024099278532782/albums/profile/6338347610949351474"
+    
